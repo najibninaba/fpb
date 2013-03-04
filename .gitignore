@@ -1,0 +1,6 @@
+develop-eggs
+eggs
+parts
+bin/buildout
+bin/fab
+bin/python
