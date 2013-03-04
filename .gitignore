@@ -1,7 +1,8 @@
-.installed.cfg
-develop-eggs
-eggs
-parts
 bin/buildout
 bin/fab
 bin/python
+develop-eggs
+eggs
+.installed.cfg
+parts
+*.pyc
